@@ -16,7 +16,7 @@ const SectionThree = () => {
     <div className="section-three">
       <div className="heading">
         <h2>Meeting Makers In Real Life</h2>
-        <p>Currated list of people i get to know on twitter & meeting first time in public</p>
+        <p>Curated list of people i get to know on twitter & meeting first time in public</p>
       </div>
 
       <div className="testimonals">
